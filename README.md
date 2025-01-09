@@ -1,2 +1,1 @@
-# finshark
-Hello friend!
+# Hello friend!
